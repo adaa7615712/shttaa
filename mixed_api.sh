@@ -2,7 +2,7 @@
 
 script_dir="$(dirname "$0")"
 numbers_file="$script_dir/active_numbers.txt"
-webhook_url="https://discord.com/api/webhooks/1310304175661387877/PbZwMD80C-00Tjyy3PN1gt9jpKTGfPjFCOK05bXEDWCYWADpGJRsxuy6nVRtloXHuNIX"
+webhook_url=""
 
 # Function to send Discord webhook
 send_webhook() {
